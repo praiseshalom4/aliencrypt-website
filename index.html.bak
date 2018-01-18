@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>alienware</title>
+		<a href="style/alien.css">alien</a>
+		<link rel="stylesheet" type="text/css" href="style/alien1.css">
+	
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
+	<body>
+		<div class="container">
+		<div id="header">
+			<ul>
+				<li><a href="">HOME</a></li>
+				<li><a href="">ABOUT US</a></li>
+				<li><a href="">CONTACT US</a></li>
+				<li><a href="">BLOG</a></li>
+			</ul>
+		</div>
+		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+		tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+		consequat. Duis aute irure <span style="color: red">dolor in reprehenderit in voluptate velit esse
+		cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+		proident, sunt in culpa qui officia deserunt mollit anim </span>est laborum.
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		<div>
+			<form id="form">
+				<h2>Username</h2> <br>
+				<input type="text"	name="Username" value="enter username">
+				<h2>Password</h2> <br>
+				<input type="password" name="password" value="enterpassword">
+				<h2>Submit</h2> <br>
+				<input type="submit" name="login" value="submit">
+				<legend>
+					form
+				</legend>
+				<fieldset> reds</fieldset>
+				<br>
+				Age:
+				<select>
+					<option value="10">10</option>
+					<option value="11">11</option>
+					<option value="12">12</option>
+					<option value="13">13</option>
+					<option value="14">14</option>
+					<option value="15">15</option>
+					<option value="16">16</option>
+					<option value="17">17</option>
+					<option value="18">18</option>	
+					<br>
+					<input type="checkbox" name="correct" value="correct">correct<br>
+					<input type="checkbox" name="correct" value="correct">correct<br>
+					<input type="checkbox" name="correct" value="correct">correct<br>
+					<input type="checkbox" name="correct" value="correct">correct<br>
+				</select>
+			</form>
+		</div>
+		<p>
+		John 3:16 :<blockquote>For God so loved the world that he gave his begotten son that whoever believes in him shall not perish but have eternal life</blockquote>
+		</p>
+		</div id="footer">
+		<a href="https://www.facebook.com/"><img src="images/web.PNG"></a>
+	</body>
+</html>
